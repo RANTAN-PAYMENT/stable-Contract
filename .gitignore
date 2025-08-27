@@ -1,0 +1,5 @@
+.DS_Store
+*.tar.gz
+*.patch
+creator-token-standards/script/factory/*
+!creator-token-standards/script/factory/*.sh
