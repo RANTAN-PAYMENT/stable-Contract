@@ -8,4 +8,4 @@ forge script script/factory/DeployNFTFactory.s.sol:DeployNFTFactory \
     --rpc-url $RPC_URL \
     --broadcast \
     --verify \
-    -vvvv 
+    -vvvv
